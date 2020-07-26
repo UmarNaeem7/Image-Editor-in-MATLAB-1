@@ -20,6 +20,32 @@ The image editor app provides the the following functionalities:
 
 Image opened in editor app:
 
-![](images/1.png)
+![](images/1.PNG)
 
+Image translation without wraparound:
 
+![](images/2.PNG)
+
+Image translation with wraparound:
+
+![](images/3.PNG)
+
+Image rotation:
+
+![](images/4.PNG)
+
+Zoom image using zero order convolution:
+
+![](images/5.PNG)
+
+Zoom image using first order convolution:
+
+![](images/6.PNG)
+
+Enlarged image (notice row & column count change):
+
+![](images/7.PNG)
+
+Save image to disk:
+
+![](images/8.PNG)
