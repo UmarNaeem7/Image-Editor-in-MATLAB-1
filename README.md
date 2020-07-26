@@ -22,30 +22,4 @@ Image opened in editor app:
 
 ![](images/1.png)
 
-Image translation without wraparound:
 
-![](images/2.png)
-
-Image translation with wraparound:
-
-![](images/3.png)
-
-Image rotation:
-
-![](images/4.png)
-
-Zoom image using zero order convolution:
-
-![](images/5.png)
-
-Zoom image using first order convolution:
-
-![](images/6.png)
-
-Enlarged image (notice row & column count change):
-
-![](images/7.png)
-
-Save image to disk:
-
-![](images/8.png)
